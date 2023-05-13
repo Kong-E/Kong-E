@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kong-E&count_private=true&show_icons=true&theme=swift)   
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kong-E&count_private=true&show_icons=true&theme=swift)    -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kong-E)](https://github.com/Kong-E/github-readme-stats)
 
 <!--
