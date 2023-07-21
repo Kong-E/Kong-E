@@ -1,5 +1,12 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kong-E)](https://github.com/Kong-E/github-readme-stats)
-
+![KakaoTalk_20230721_204703770_03](https://github.com/Kong-E/Kong-E/assets/87259219/e93c1ffc-e9ff-47fe-9825-08acebe347fd)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kong-E&theme=graywhite" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kong-E&layout=compact&langs_count=8&card_width=320&theme=graywhite" />
+</a>
+  </p>
 <!--
 **Kong-E/Kong-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
