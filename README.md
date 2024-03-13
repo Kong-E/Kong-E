@@ -1,10 +1,10 @@
 ![KakaoTalk_20230721_204703770_03](https://github.com/Kong-E/Kong-E/assets/87259219/e93c1ffc-e9ff-47fe-9825-08acebe347fd)
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kong-E&theme=graywhite" />
+  <img height=200 align="center" src="https://github-readme-stats-delta-two-25.vercel.app/api?username=Kong-E&theme=graywhite&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kong-E&layout=compact&langs_count=8&card_width=320&theme=graywhite" />
+  <img height=200 align="center" src="https://github-readme-stats-delta-two-25.vercel.app/api/top-langs?username=Kong-E&layout=compact&langs_count=8&card_width=320&theme=graywhite&hide=python,powershell" />
 </a>
   </p>
 <!--
