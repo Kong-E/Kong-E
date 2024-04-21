@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF947B&text=Soyeon%20Kong&height=150&fontSize=60&descAlignY=75&descAlign=60" />
 
+
+## 👀 **Interests**
+•  Web / App   
+•  Blockchain   
+•  Data Analysis
+
+   
 <h2> 🛠 Tech Stack </h2>
 
 <p>
@@ -22,12 +29,6 @@
  
   
 </p>
-
-## 👀 **Interests**
-•  Web / App   
-•  Blockchain   
-•  Data Analysis
-</ul>
 
 ## 🧑‍💻 **Algorithm**
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kng001016" />
