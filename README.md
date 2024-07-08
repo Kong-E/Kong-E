@@ -1,11 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF947B&text=Soyeon%20Kong&height=150&fontSize=60&descAlignY=75&descAlign=60" />
 
+## 👋 Hi there! 
+
+I'm Soyeon Kong, a senior at Dongguk University   
+majoring in Economics and double majoring in Software Engineering. 📚💻
 
 ## 👀 **Interests**
-•  Web / App   
-•  Blockchain   
-•  Data Science
+•  Full Stack Web Development   
+•  Cross Platform App Development   
+•  Blockchain Technology   
+<!-- •  Data Science -->
 
    
 <h2> 🛠 Tech Stack </h2>
@@ -30,6 +35,9 @@
  
   
 </p>
+
+<br />
+<br />
 <!--
 ## 🧑‍💻 **Algorithm**
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kng001016" />
