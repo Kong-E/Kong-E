@@ -36,6 +36,7 @@ majoring in Economics and double majoring in Software Engineering. 📚💻
   
 </p>
 
+<!--
 <p>
   
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -43,7 +44,7 @@ majoring in Economics and double majoring in Software Engineering. 📚💻
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 
 </p>
-
+-->
 
 ## 🧑‍💻 **Algorithm**
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kng001016" />
