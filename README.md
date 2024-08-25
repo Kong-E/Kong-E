@@ -48,8 +48,6 @@ majoring in Economics and double majoring in Software Engineering. 📚💻
 </p>
 -->
 
-<br />
-
 <!--
 ## 🧑‍💻 **Algorithm**
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kng001016" />
