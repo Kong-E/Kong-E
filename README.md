@@ -1,8 +1,8 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/Kong-E"
-  width="600"
-  height="300"
+  width="400"
+  height="auto"
 />
 </a>
 
