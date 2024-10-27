@@ -30,7 +30,6 @@ majoring in Economics and double majoring in Software Engineering. 📚💻
 <p>
 
   ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=Java&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
